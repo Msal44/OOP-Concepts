@@ -1,7 +1,6 @@
-
-# Player.h
-# CSCI 241 Assignment 2
-# Created by Melvyn Salvatierra 
+// Player.h
+// CSCI 241 Assignment 2
+// Created by Melvyn Salvatierra 
 
 /*
 Data Members
