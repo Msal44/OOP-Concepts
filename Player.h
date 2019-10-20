@@ -1,3 +1,6 @@
+#ifndef PLAYER_H
+#define PLAYER_H
+
 // Player.h
 // CSCI 241 Assignment 2
 // Created by Melvyn Salvatierra 
