@@ -1,7 +1,6 @@
 PART 1
 
-Assignment Overview
-In Part 1 of this assignment, you will write a main program and several classes to create and print a small database of baseball player data. The assignment has been split into two parts to encourage you to code your program in an incremental fashion, a technique that will be increasingly important as the semester goes on.
+You will write a main program and several classes to create and print a small database of baseball player data. The assignment has been split into two parts to encourage you to code your program in an incremental fashion, a technique that will be increasingly important as the semester goes on.
 
 Purpose
 This assignment reviews object-oriented programming concepts such as classes, methods, constructors, accessor methods, and access modifiers. It makes use of an array of objects as a class data member, and introduces the concept of object serialization or "binary I/O".
